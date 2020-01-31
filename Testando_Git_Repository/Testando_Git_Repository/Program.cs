@@ -11,6 +11,7 @@ namespace Testando_Git_Repository
         static void Main(string[] args)
         {
             Console.WriteLine("O CURSO É MUITO BRABO ");
+            Console.WriteLine("O curso é brabo alteração1 ");
         }
     }
 }
